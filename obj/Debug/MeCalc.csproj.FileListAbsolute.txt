@@ -1,0 +1,10 @@
+C:\Users\X1 Yoga G8\Desktop\Jobsearch\Projects\MeCalc\MeCalc\obj\Debug\MeCalc.csproj.AssemblyReference.cache
+C:\Users\X1 Yoga G8\Desktop\Jobsearch\Projects\MeCalc\MeCalc\obj\Debug\MeCalc.Basic.resources
+C:\Users\X1 Yoga G8\Desktop\Jobsearch\Projects\MeCalc\MeCalc\obj\Debug\MeCalc.Properties.Resources.resources
+C:\Users\X1 Yoga G8\Desktop\Jobsearch\Projects\MeCalc\MeCalc\obj\Debug\MeCalc.csproj.GenerateResource.cache
+C:\Users\X1 Yoga G8\Desktop\Jobsearch\Projects\MeCalc\MeCalc\obj\Debug\MeCalc.csproj.CoreCompileInputs.cache
+C:\Users\X1 Yoga G8\Desktop\Jobsearch\Projects\MeCalc\MeCalc\bin\Debug\MeCalc.exe.config
+C:\Users\X1 Yoga G8\Desktop\Jobsearch\Projects\MeCalc\MeCalc\bin\Debug\MeCalc.exe
+C:\Users\X1 Yoga G8\Desktop\Jobsearch\Projects\MeCalc\MeCalc\bin\Debug\MeCalc.pdb
+C:\Users\X1 Yoga G8\Desktop\Jobsearch\Projects\MeCalc\MeCalc\obj\Debug\MeCalc.exe
+C:\Users\X1 Yoga G8\Desktop\Jobsearch\Projects\MeCalc\MeCalc\obj\Debug\MeCalc.pdb
